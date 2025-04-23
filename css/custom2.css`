@@ -1,0 +1,19 @@
+body {
+  background-color: #f2f2fc;
+  font-family: 'Verdana', sans-serif;
+  color: #222;
+}
+
+.section {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: white;
+}
+
+img.dog-photo {
+  width: 300px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
